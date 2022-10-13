@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Primer Proyecto en React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
+
+En este repositorio se iran agregando los codigos visto en clases. Estos seran separados en branch para mayor orden y identificación.
+
+## Detalle del Proyecto Final
+
+Para cumplir con el proyecto del curso el aplicativo eComerce no sera basada netamente en la venta de productos. Para agregar un poco mas de "internación",
+
+Este eComerce sera la "venta o cotizacion" de servicio de construcción, donde dependiendo del servicio que se desea (pintura, construcción, etc), se debera manejar
+diferentes logicas de negocio segun el servicio a cotizar.
+
 
 ## Available Scripts
 
